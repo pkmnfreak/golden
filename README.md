@@ -1,3 +1,3 @@
 # golden
 iOS Decal Final Project <br />
-![](/readme-files/golden.pdf)
+[a relative link](/readme-files/golden.pdf)

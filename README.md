@@ -1,7 +1,5 @@
 # golden
 iOS Decal Final Project <br />
 [Description](/readme-files/golden.pdf)
-<p align="center">
-![](/readme-files/dates.png)
-![](/readme-files/map.png)
-</p>
+<img src="https://github.com/pkmnfreak/golden/readme-files/dates.png" height="42" width="42">
+<img src="https://github.com/pkmnfreak/golden/readme-files/map.png" height="42" width="42">

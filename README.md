@@ -1,3 +1,3 @@
 # golden
 iOS Decal Final Project
-![](/readme-files/golden.mov)
+![](/readme-files/golden.pdf)

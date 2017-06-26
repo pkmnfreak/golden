@@ -1,7 +1,7 @@
 # golden
 iOS Decal Final Project <br />
-<p align="center">
 [Description](/readme-files/golden.pdf) <br / >
-</p>
+
+
 <img src="https://github.com/pkmnfreak/golden/blob/master/readme-files/dates.png" height="400" width="400">
 <img src="https://github.com/pkmnfreak/golden/blob/master/readme-files/map.png" height="400" width="400">
